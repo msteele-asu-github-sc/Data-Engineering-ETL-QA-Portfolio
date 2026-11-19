@@ -9,3 +9,6 @@ pytest-bdd>=7.0.0
 # Streaming & Messaging Tests (Optional, if running Python Kafka tests)
 kafka-python-ng>=2.2.0
 
+# AWS CLI emulation
+boto3>=1.35.0
+
